@@ -1,0 +1,57 @@
+baseURL: "https://simeonhorner.com/"
+languageCode: "en-gb"
+title: "Simeon's Site"
+theme: "hugo-bearblog"  
+
+
+# Disable Google Analytics (prevents missing template error)
+googleAnalytics: ""
+
+# Basic site settings
+paginate: 10
+enableRobotsTXT: true
+
+
+# Tags & categories
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+# Sidebar + theme settings
+params:
+  cssFiles:
+    - "default"
+
+  sidebar:
+    avatar: "img/profile.jpg"
+    bio: "Simeon — London-based developer, cook, reader, traveller."
+    social:
+      github: "https://github.com/simeonhorner"
+      instagram: ""
+      twitter: ""
+
+  theme:
+    showRecent: false
+    showReadingTime: true
+    share: true
+
+  featured:
+    previewOnly: false
+
+  Author:
+    name: "Simeon Horner"
+    email: ""
+
+  mainSections: ["recipe", "review", "travel", "thought"]
+
+# Top navigation menu
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: "/"
+      weight: 1 
+    - identifier: posts
+      name: Posts
+      url: "/posts/"
+      weight: 2

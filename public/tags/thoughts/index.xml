@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Thoughts on Simeon&#39;s Site</title>
+		<link>http://localhost:1313/tags/thoughts/</link>
+		<description>Recent content in Thoughts on Simeon&#39;s Site</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Some Thoughts on Learning New Things</title>
+				<link>http://localhost:1313/posts/randomthought/</link>
+				<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/randomthought/</guid>
+				<description>&lt;p&gt;I’ve realised recently that learning something new always follows the same emotional pattern:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Excitement&lt;/strong&gt; — the spark that makes you start.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Confusion&lt;/strong&gt; — the moment you realise you know nothing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frustration&lt;/strong&gt; — the part where most people quit.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Breakthrough&lt;/strong&gt; — the moment something finally clicks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Momentum&lt;/strong&gt; — when progress becomes addictive.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The trick is simply surviving step 3.&lt;/p&gt;&#xA;&lt;p&gt;Everything after that feels inevitable.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

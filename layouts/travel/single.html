@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article class="travel">
+  <h1>{{ .Title }}</h1>
+  <img src="{{ .Params.image }}" alt="{{ .Title }}">
+  {{ .Content }}
+</article>
+{{ end }}

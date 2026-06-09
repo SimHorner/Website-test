@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article class="review">
+  <h1>{{ .Title }}</h1>
+  <p>Rating: ⭐ {{ .Params.rating }}/5</p>
+  {{ .Content }}
+</article>
+{{ end }}

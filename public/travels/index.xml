@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Travels on Simeon&#39;s Site</title>
+		<link>http://localhost:1313/travels/</link>
+		<description>Recent content in Travels on Simeon&#39;s Site</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/travels/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Three Days in Rome</title>
+				<link>http://localhost:1313/travels/rome/</link>
+				<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/travels/rome/</guid>
+				<description>&lt;p&gt;Rome is one of those cities that hits you immediately — the heat, the noise, the history layered on every street corner.&lt;/p&gt;&#xA;&lt;h2 id=&#34;day-1--the-classics&#34;&gt;Day 1 — The Classics&lt;/h2&gt;&#xA;&lt;p&gt;I started at the Colosseum, walked through the Forum, and ended up on Palatine Hill.&lt;br&gt;&#xA;The scale of everything is overwhelming, and the views at sunset are unreal.&lt;/p&gt;&#xA;&lt;h2 id=&#34;day-2--vatican--trastevere&#34;&gt;Day 2 — Vatican + Trastevere&lt;/h2&gt;&#xA;&lt;p&gt;The Vatican Museums are intense but worth it.&lt;br&gt;&#xA;Afterwards, I crossed the river into Trastevere for dinner — easily the best food of the trip.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

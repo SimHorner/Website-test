@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>John Le Carre on Simeon&#39;s Site</title>
+		<link>http://localhost:1313/tags/john-le-carre/</link>
+		<description>Recent content in John Le Carre on Simeon&#39;s Site</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/john-le-carre/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Book Review: Night Manager</title>
+				<link>http://localhost:1313/posts/the-martian/</link>
+				<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/the-martian/</guid>
+				<description>&lt;p&gt;Really good story.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
