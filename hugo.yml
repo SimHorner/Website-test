@@ -1,6 +1,6 @@
 baseurl: "https://simhorner.github.io/Website-test/"
 title: Ghostwriter example
-theme: github.com/jbub/ghostwriter
+theme: ghostwriter
 languageCode: en-us
 copyright: My Name
 googleAnalytics: XXX
