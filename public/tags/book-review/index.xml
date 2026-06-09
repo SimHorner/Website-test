@@ -14,11 +14,18 @@
 		
 			<atom:link href="http://localhost:1313/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Book Review: The Martian</title>
-				<link>http://localhost:1313/posts/the-martian/</link>
+				<title>The Night Manager - John Le Carre</title>
+				<link>http://localhost:1313/posts/how-democracies-die/</link>
 				<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/the-martian/</guid>
-				<description>&lt;p&gt;Andy Weir’s &lt;em&gt;The Martian&lt;/em&gt; is a fast-paced survival story set on Mars, following astronaut Mark Watney as he tries to stay alive after being stranded.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-liked&#34;&gt;What I Liked&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The humour — Watney’s voice keeps the story light even when things go wrong.&lt;/li&gt;&#xA;&lt;li&gt;The science — grounded enough to feel real without slowing the pace.&lt;/li&gt;&#xA;&lt;li&gt;The tension — every small problem feels huge when you&amp;rsquo;re alone on a planet.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h2&gt;&#xA;&lt;p&gt;A clever, funny, surprisingly uplifting sci‑fi novel about problem‑solving under pressure.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/posts/how-democracies-die/</guid>
+				<description>&lt;p&gt;To rate this book, I have split into three parts&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How democracies die 5/5&lt;/li&gt;&#xA;&lt;li&gt;How the American democracy is dying 5/5&lt;/li&gt;&#xA;&lt;li&gt;How to fix it. 2/5&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The first is very interesting, they break down key aspects of traits in leaders/ruling parties that have historically led to the breakdown of democracy. These are mapped to South American, African and East Asian dictators over the last 200 years and the American South before the civil war and some politicians since. They provide a concise but complete checklist and show how each of these in turn damage a democracy.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Night Manager - John Le Carre</title>
+				<link>http://localhost:1313/posts/the-night-manager/</link>
+				<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/the-night-manager/</guid>
+				<description>&lt;p&gt;Really good story.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

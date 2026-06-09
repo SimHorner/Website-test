@@ -11,6 +11,10 @@ googleAnalytics: ""
 paginate: 10
 enableRobotsTXT: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 # Tags & categories
 taxonomies:
