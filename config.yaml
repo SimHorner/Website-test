@@ -16,6 +16,9 @@ markup:
     renderer:
       unsafe: true
 
+relativeURLs: false
+canonifyURLs: true
+
 # Tags & categories
 taxonomies:
   tag: "tags"
