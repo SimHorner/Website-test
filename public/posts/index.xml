@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Simeon&#39;s Site</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>https://simeonhorner.com/posts/</link>
 		<description>Recent content in Posts on Simeon&#39;s Site</description>
 		<generator>Hugo</generator>
 		<language>en-gb</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://simeonhorner.com/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Odyssey - Stephen Fry</title>
-				<link>http://localhost:1313/posts/odyssey---stephen-fry/</link>
+				<link>https://simeonhorner.com/posts/odyssey---stephen-fry/</link>
 				<pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/odyssey---stephen-fry/</guid>
+				<guid>https://simeonhorner.com/posts/odyssey---stephen-fry/</guid>
 				<description>&lt;p&gt;As a modern book with plot, humour, character arcs and suspence it gets a 3, but as a recreation of a Greek epic - 5.&lt;/p&gt;&#xA;&lt;p&gt;Stephen Fry did an amazing job of turning what is a very dence, historical narrative into a readable and engaging story.  I recollect reading the Illiad during lockdown, the most notable chapter where they spend pages naming the different Greek kings and how many horses, ship, men and cattle each brought. There was none of that in this retelling, for which I am grateful. Never having studied the original Odyssey, I cannot say for sure how far this retelling takes liberties with plots or details. I am sure there are some discrepancies, but the main themes around sacrifice, perseverance and the savage pettyness of Greek gods all survived.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Tuner</title>
-				<link>http://localhost:1313/posts/tuner/</link>
+				<link>https://simeonhorner.com/posts/tuner/</link>
 				<pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/tuner/</guid>
+				<guid>https://simeonhorner.com/posts/tuner/</guid>
 				<description>&lt;p&gt;Great film about a piano tuner with a hearing impairment (very sensitive ears). He gets dragged into a life of crime when he realises his hearing can be used to open mechanical safes, and his elderly uncle (I think?) gets sick and has to pay US healthcare. As most of these stories do, crime pays for a bit, but then costs much more in the end. It seems to end on a positive note (quite literally) when after being blasted by an air horn, his normal hearing is destroyed but he can now play the piano without over stimulating his ears.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>How Democracies Die - Daniel Ziblatt and Steven Levitzky</title>
-				<link>http://localhost:1313/posts/how-democracies-die/</link>
+				<link>https://simeonhorner.com/posts/how-democracies-die/</link>
 				<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/how-democracies-die/</guid>
+				<guid>https://simeonhorner.com/posts/how-democracies-die/</guid>
 				<description>&lt;p&gt;To rate this book, I have split into three parts&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How democracies die 5/5&lt;/li&gt;&#xA;&lt;li&gt;How the American democracy is dying 5/5&lt;/li&gt;&#xA;&lt;li&gt;How to fix it. 2/5&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The first is very interesting, they break down key aspects of traits in leaders/ruling parties that have historically led to the breakdown of democracy. These are mapped to South American, African and East Asian dictators over the last 200 years and the American South before the civil war and some politicians since. They provide a concise but complete checklist and show how each of these in turn damage a democracy.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Night Manager - John Le Carre</title>
-				<link>http://localhost:1313/posts/the-night-manager/</link>
+				<link>https://simeonhorner.com/posts/the-night-manager/</link>
 				<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/the-night-manager/</guid>
+				<guid>https://simeonhorner.com/posts/the-night-manager/</guid>
 				<description>&lt;p&gt;Really good story.&lt;/p&gt;</description>
 			</item>
 	</channel>

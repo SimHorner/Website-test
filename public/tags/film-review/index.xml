@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Film Review on Simeon&#39;s Site</title>
-		<link>http://localhost:1313/tags/film-review/</link>
+		<link>https://simeonhorner.com/tags/film-review/</link>
 		<description>Recent content in Film Review on Simeon&#39;s Site</description>
 		<generator>Hugo</generator>
 		<language>en-gb</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/film-review/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://simeonhorner.com/tags/film-review/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Tuner</title>
-				<link>http://localhost:1313/posts/tuner/</link>
+				<link>https://simeonhorner.com/posts/tuner/</link>
 				<pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/tuner/</guid>
+				<guid>https://simeonhorner.com/posts/tuner/</guid>
 				<description>&lt;p&gt;Great film about a piano tuner with a hearing impairment (very sensitive ears). He gets dragged into a life of crime when he realises his hearing can be used to open mechanical safes, and his elderly uncle (I think?) gets sick and has to pay US healthcare. As most of these stories do, crime pays for a bit, but then costs much more in the end. It seems to end on a positive note (quite literally) when after being blasted by an air horn, his normal hearing is destroyed but he can now play the piano without over stimulating his ears.&lt;/p&gt;</description>
 			</item>
 	</channel>
