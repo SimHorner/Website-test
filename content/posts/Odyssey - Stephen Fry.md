@@ -1,5 +1,5 @@
 ---
-title: "Odyssey - Stepghen Fry"
+title: "Odyssey - Stephen Fry"
 date: 2026-06-10
 tags: ["book review"]
 type: "review"
