@@ -62,3 +62,7 @@ menu:
       name: Posts
       url: "/posts/"
       weight: 2
+    - identifier: quotes
+      name: Quotes
+      url: "/quotes/"
+      weight: 2
