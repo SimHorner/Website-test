@@ -2,35 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/book-review/</loc>
-    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <loc>https://simeonhorner.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/film-review/</loc>
-    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <loc>https://simeonhorner.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/odyssey---stephen-fry/</loc>
-    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/tuner/</loc>
-    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/how-democracies-die/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/the-night-manager/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/quotes/</loc>
+    <loc>https://simeonhorner.com/tags/</loc>
   </url>
 </urlset>
