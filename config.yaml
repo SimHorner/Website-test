@@ -65,4 +65,4 @@ menu:
     - identifier: quotes
       name: Quotes
       url: "/quotes/"
-      weight: 2
+      weight: 3
