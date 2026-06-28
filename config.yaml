@@ -51,6 +51,13 @@ params:
 
   mainSections: ["recipe", "review", "travel", "thought"]
 
+
+outputs:
+  home: ["HTML"]
+  section: ["HTML"]
+  page: ["HTML"]
+
+
 # Top navigation menu
 menu:
   main:
