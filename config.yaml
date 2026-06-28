@@ -19,3 +19,8 @@ menu:
       name: Quotes
       url: "/quotes/"
       weight: 3
+
+
+outputs:
+  home:
+    - HTML
