@@ -1,49 +1,8 @@
 baseURL: "https://simeonhorner.com/"
 languageCode: "en-gb"
 title: "Simeon's Site"
-theme: "hugo-bearblog"  
+theme: "hugo-bearblog"
 
-
-# Disable Google Analytics (prevents missing template error)
-googleAnalytics: ""
-
-# Basic site settings
-paginate: 10
-enableRobotsTXT: true
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-
-relativeURLs: false
-canonifyURLs: true
-
-# Tags & categories
-taxonomies:
-  tag: "tags"
-  category: "categories"
-
-# Sidebar + theme settings
-params:
-  cssFiles:
-    - "default"
-
-  theme:
-    showRecent: false
-    showReadingTime: true
-    share: true
-
-  featured:
-    previewOnly: false
-
-  Author:
-    name: "Simeon Horner"
-    email: ""
-
-
-
-# Top navigation menu
 menu:
   main:
     - identifier: home
