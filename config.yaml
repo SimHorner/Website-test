@@ -29,14 +29,6 @@ params:
   cssFiles:
     - "default"
 
-  sidebar:
-    avatar: "img/profile.jpg"
-    bio: "Simeon — London-based developer, cook, reader, traveller."
-    social:
-      github: "https://github.com/simeonhorner"
-      instagram: ""
-      twitter: ""
-
   theme:
     showRecent: false
     showReadingTime: true
@@ -49,13 +41,6 @@ params:
     name: "Simeon Horner"
     email: ""
 
-  mainSections: ["recipe", "review", "travel", "thought"]
-
-
-outputs:
-  home: ["HTML"]
-  section: ["HTML"]
-  page: ["HTML"]
 
 
 # Top navigation menu
