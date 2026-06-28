@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Home</h1>
+
+    {{ range site.RegularPages }}
+      <p>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </p>
+    {{ end }}
+
+  </body>
+</html>
